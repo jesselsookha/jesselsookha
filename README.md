@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jesselsookha
 - 👀 I’m interested in coding and photography 
 - 🌱 I’m currently learning and teaching programming / programming logic  
-- 📫 How to reach me: jsookha@varsitycollege.co.za 
+- 📫 How to reach me: jsookha@emeris.ac.za 
 - 😄 Pronouns: He/Him
 
 
