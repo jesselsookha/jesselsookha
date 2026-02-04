@@ -1,7 +1,7 @@
-
 # ❖ Jessel Sookha  
 
 ### Educator ▸ Curriculum Designer ▸ Creative Technologist  
+✦ *“We are all apprentices in a craft where no one ever becomes a master.”* — Ernest Hemingway  
 
 Welcome to my GitHub profile. This space documents my work as an educator and curriculum designer specializing in **programming logic, mobile/web development, and ethical pedagogy**.  
 
