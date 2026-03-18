@@ -47,6 +47,7 @@ Alongside formal teaching, I have developed tools to support students, lecturers
 | ❖ Reference List Generator | [Repo](https://github.com/jesselsookha/reference-generator-tool) ▸ [Pages](https://jesselsookha.github.io/reference-generator-tool/) | Generates academic references in Harvard-Anglia style adapted to the organization. | Students & Lecturers |
 | ❖ Git, GitHub Guide | [Repo](https://github.com/jesselsookha/git-github-guide) ▸ [Pages](https://jesselsookha.github.io/git-github-guide) | A structured, institutional-grade Git reference for students and educators.| Students & Lecturers |
 | ❖ Grade Transfer Tool | [Repo](https://github.com/jesselsookha/grade-transfer-tool) ▸ [Pages](https://jesselsookha.github.io/grade-transfer-tool/) | Utility to transfer marks from Brightspace CSV export into Academia Excel template. *Ongoing project.* | Administration |
+| ❖ Excel - ICS Converter | [Repo](https://github.com/jesselsookha/Excel-ICS-Converter) ▸ [Pages](https://jesselsookha.github.io/Excel-ICS-Converter/) | Converts a lecturer’s Excel timetable (as exported from the campus system) into an ICS calendar file  | Lecturers |
 | ❖ Brightspace (Arc) Quiz Workbook | [Repo](https://github.com/jesselsookha/QuizTemplateTool) | Excel-based tool for creating quiz banks compatible with Arc (Brightspace D2L). | Lecturers |
 
 ---
