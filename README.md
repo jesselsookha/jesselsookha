@@ -42,6 +42,10 @@ Alongside formal teaching, I have developed tools to support students, lecturers
 
 | Project | Repository / Pages | Description | Type |
 | --- | --- | --- | --- |
+| ❖ Itan | [Repo](https://github.com/jesselsookha/Itan) ▸ [Pages](https://jesselsookha.github.io/Itan/) | Open portfolio development framework for students and emerging professionals across all disciplines. | Students, Lecturers & Professionals |
+| ❖ Vestigia | [Repo](https://github.com/jesselsookha/Vestigia) ▸ [Pages](https://jesselsookha.github.io/Vestigia/) | Open framework for final-year students documenting, making sense of, and presenting their capstone project work. | Students & Lecturers |
+| ❖ Debugging Guide | [Repo](https://github.com/jesselsookha/debugging-guide-2026) ▸ [Pages](https://jesselsookha.github.io/debugging-guide-2026/) | A practical, progressive guide to debugging software. | Students, Lecturers & Professionals |
+| ❖ Colour Scheme Generator | [Repo](https://github.com/jesselsookha/colour-scheme-generator) ▸ [Pages](https://jesselsookha.github.io/colour-scheme-generator/) | A browser-based tool for building complete UI colour systems from seed colours. | Students & Lecturers |
 | ❖ Andika | [Repo](https://github.com/jesselsookha/andika) ▸ [Pages](https://jesselsookha.github.io/andika) | Web-based tool to help students develop markdown files for project documentation. | Students & Lecturers |
 | ❖ Android Layout Previewer | [Repo](https://github.com/jesselsookha/android-xml-previewer) ▸ [Pages](https://jesselsookha.github.io/android-xml-previewer/) | Web-based tool to help students and instructors understand Android XML layout code. | Students & Lecturers |
 | ❖ Reference List Generator | [Repo](https://github.com/jesselsookha/reference-generator-tool) ▸ [Pages](https://jesselsookha.github.io/reference-generator-tool/) | Generates academic references in Harvard-Anglia style adapted to the organization. | Students & Lecturers |
