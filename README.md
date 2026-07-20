@@ -7,10 +7,10 @@ Welcome to my GitHub profile. This space documents my work as an educator and cu
 
 I believe in teaching through **systems thinking, narrative-driven assignments, and transparent reporting**. My repositories are not just code, they are scaffolds for learning, designed to help students and collaborators understand both the *how* and the *why* behind programming. Each example begins simply and grows in stages, showing not only the mechanics of code but the reasoning behind design choices. My goal is to model thought processes so that learners can adapt them, develop their own style, and ultimately discover new pathways to solving problems.  
 
-- ✦ Interests: coding, curriculum design, and photography  
-- ➤ Currently teaching: programming logic, mobile app scripting, and responsive web design  
-- ✉ Contact: jsookha@emeris.ac.za  
-- ♂ Pronouns: He/Him  
+- Interests: coding, curriculum design, and photography  
+- Currently teaching: programming logic, mobile app scripting, and responsive web design  
+- Contact: jsookha@emeris.ac.za  
+- Pronouns: He/Him  
 
 ---
 
@@ -18,7 +18,10 @@ I believe in teaching through **systems thinking, narrative-driven assignments, 
 
 | Subject | Repository | Focus |
 | --- | --- | --- |
-| ❖ **[Introduction to Programming Logic (IPRG2026)](https://github.com/jesselsookha/IPRG2026)** | Programming foundations | Pseudocode, flowcharts, logical structures for problem-solving |
+| ❖ **Mobile App Scripting** | [MAST2026](https://github.com/jesselsookha/MAST2026) | Mobile App Development, React Native + TypeScript, Component design, State management, VM-based testing |
+| ❖ **Introduction to Web Development** | [WEDE2026](https://github.com/jesselsookha/WEDE2026) | Web DevelopmentHTML, CSS, Responsive Design, JavaScript interactivity, Publishing & analytics |
+| ❖ **Work Integrated Learning** | [XHAW2026](https://github.com/jesselsookha/XHAW2026) | Group project, Client solutions, Integrated web & mobile apps, Presentations |
+| ❖ **Introduction to Programming Logic** | [IPRG2026](https://github.com/jesselsookha/IPRG2026) | Programming foundationsPseudocode, Flowcharts, Logical structures, Data Structures |
 
 ---
 
